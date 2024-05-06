@@ -1,0 +1,9 @@
+D:\Project\QLBH\IsuranceManagement_final\DAL\bin\Debug\DAL.dll
+D:\Project\QLBH\IsuranceManagement_final\DAL\bin\Debug\DAL.pdb
+D:\Project\QLBH\IsuranceManagement_final\DAL\bin\Debug\DTO.dll
+D:\Project\QLBH\IsuranceManagement_final\DAL\bin\Debug\DTO.pdb
+D:\Project\QLBH\IsuranceManagement_final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Project\QLBH\IsuranceManagement_final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project\QLBH\IsuranceManagement_final\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Project\QLBH\IsuranceManagement_final\DAL\obj\Debug\DAL.dll
+D:\Project\QLBH\IsuranceManagement_final\DAL\obj\Debug\DAL.pdb
