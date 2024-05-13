@@ -144,6 +144,9 @@
     <EmbeddedResource Include="CustomerMain.resx">
       <DependentUpon>CustomerMain.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="CustomerProfile.resx">
+      <DependentUpon>CustomerProfile.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
