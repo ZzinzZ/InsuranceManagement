@@ -1,66 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\NGUYEN QUACH HAI\\Documents\\T\u00E0i Li\u1EC7u\\BM CSDL\\CK\\C#\\InsuranceManagement\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{171F7812-5920-4C77-A05B-D4A395D75C08}|GUI\\GUI.csproj|c:\\users\\nguyen quach hai\\documents\\t\u00E0i li\u1EC7u\\bm csdl\\ck\\c#\\insurancemanagement\\gui\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{171F7812-5920-4C77-A05B-D4A395D75C08}|GUI\\GUI.csproj|solutionrelative:gui\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{171F7812-5920-4C77-A05B-D4A395D75C08}|GUI\\GUI.csproj|C:\\Users\\NGUYEN QUACH HAI\\Documents\\T\u00E0i Li\u1EC7u\\BM CSDL\\CK\\C#\\InsuranceManagement\\gui\\customercontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{171F7812-5920-4C77-A05B-D4A395D75C08}|GUI\\GUI.csproj|solutionrelative:gui\\customercontracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{171F7812-5920-4C77-A05B-D4A395D75C08}|GUI\\GUI.csproj|C:\\Users\\NGUYEN QUACH HAI\\Documents\\T\u00E0i Li\u1EC7u\\BM CSDL\\CK\\C#\\InsuranceManagement\\gui\\customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{171F7812-5920-4C77-A05B-D4A395D75C08}|GUI\\GUI.csproj|solutionrelative:gui\\customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\NGUYEN QUACH HAI\\Documents\\T\u00E0i Li\u1EC7u\\BM CSDL\\CK\\InsuranceManagement\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerProfile.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\NGUYEN QUACH HAI\\Documents\\T\u00E0i Li\u1EC7u\\BM CSDL\\CK\\C#\\InsuranceManagement\\GUI\\CustomerProfile.cs",
-              "RelativeDocumentMoniker": "GUI\\CustomerProfile.cs",
-              "ToolTip": "C:\\Users\\NGUYEN QUACH HAI\\Documents\\T\u00E0i Li\u1EC7u\\BM CSDL\\CK\\C#\\InsuranceManagement\\GUI\\CustomerProfile.cs [Design]",
-              "RelativeToolTip": "GUI\\CustomerProfile.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T12:17:29.127Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerContracts.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\NGUYEN QUACH HAI\\Documents\\T\u00E0i Li\u1EC7u\\BM CSDL\\CK\\C#\\InsuranceManagement\\GUI\\CustomerContracts.cs",
-              "RelativeDocumentMoniker": "GUI\\CustomerContracts.cs",
-              "ToolTip": "C:\\Users\\NGUYEN QUACH HAI\\Downloads\\BMCSDLHT\\InsuranceManagement\\GUI\\CustomerContracts.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\BMCSDLHT\\InsuranceManagement\\GUI\\CustomerContracts.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T12:05:41.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\NGUYEN QUACH HAI\\Documents\\T\u00E0i Li\u1EC7u\\BM CSDL\\CK\\C#\\InsuranceManagement\\GUI\\CustomerMain.cs",
-              "RelativeDocumentMoniker": "GUI\\CustomerMain.cs",
-              "ToolTip": "C:\\Users\\NGUYEN QUACH HAI\\Downloads\\BMCSDLHT\\InsuranceManagement\\GUI\\CustomerMain.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\BMCSDLHT\\InsuranceManagement\\GUI\\CustomerMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T12:05:43.369Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

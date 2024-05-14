@@ -10,3 +10,9 @@ C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DTO\obj\Debug\DTO.csproj.Ass
 C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DTO\obj\Debug\DTO.dll
 C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DTO\obj\Debug\DTO.pdb
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DTO\bin\Debug\DTO.dll
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DTO\bin\Debug\DTO.pdb
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DTO\obj\Debug\DTO.dll
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DTO\obj\Debug\DTO.pdb

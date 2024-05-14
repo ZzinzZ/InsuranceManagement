@@ -129,6 +129,9 @@
     <Compile Include="SupervisorMain.Designer.cs">
       <DependentUpon>SupervisorMain.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AccountantMain.resx">
+      <DependentUpon>AccountantMain.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AdminAccount.resx">
       <DependentUpon>AdminAccount.cs</DependentUpon>
     </EmbeddedResource>
