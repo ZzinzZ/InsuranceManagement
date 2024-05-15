@@ -48,5 +48,30 @@ namespace GUI
         {
             OpenChildForm(new AdminInsuranceType());
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void picture_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void picture_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

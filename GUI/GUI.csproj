@@ -129,6 +129,9 @@
     <Compile Include="SupervisorMain.Designer.cs">
       <DependentUpon>SupervisorMain.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AccountantMain.resx">
+      <DependentUpon>AccountantMain.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AdminAccount.resx">
       <DependentUpon>AdminAccount.cs</DependentUpon>
     </EmbeddedResource>
@@ -143,6 +146,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CustomerMain.resx">
       <DependentUpon>CustomerMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerProfile.resx">
+      <DependentUpon>CustomerProfile.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>

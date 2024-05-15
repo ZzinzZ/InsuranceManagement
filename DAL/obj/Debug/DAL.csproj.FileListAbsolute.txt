@@ -7,3 +7,21 @@ D:\Project\QLBH\IsuranceManagement_final\DAL\obj\Debug\DAL.csproj.CoreCompileInp
 D:\Project\QLBH\IsuranceManagement_final\DAL\obj\Debug\DAL.csproj.Up2Date
 D:\Project\QLBH\IsuranceManagement_final\DAL\obj\Debug\DAL.dll
 D:\Project\QLBH\IsuranceManagement_final\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\BMCSDLHT\InsuranceManagement\DAL\obj\Debug\DAL.pdb
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DAL\bin\Debug\DAL.dll
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DAL\bin\Debug\DAL.pdb
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DAL\bin\Debug\DTO.dll
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DAL\bin\Debug\DTO.pdb
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DAL\obj\Debug\DAL.dll
+C:\Users\NGUYEN QUACH HAI\Documents\Tài Liệu\BM CSDL\CK\InsuranceManagement\DAL\obj\Debug\DAL.pdb
