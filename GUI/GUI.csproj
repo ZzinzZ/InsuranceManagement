@@ -91,18 +91,6 @@
     <Compile Include="CreatorMain.Designer.cs">
       <DependentUpon>CreatorMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="CustomerContracts.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="CustomerContracts.Designer.cs">
-      <DependentUpon>CustomerContracts.cs</DependentUpon>
-    </Compile>
-    <Compile Include="CustomerMain.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="CustomerMain.Designer.cs">
-      <DependentUpon>CustomerMain.cs</DependentUpon>
-    </Compile>
     <Compile Include="CustomerProfile.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -143,9 +131,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CreatorMain.resx">
       <DependentUpon>CreatorMain.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="CustomerMain.resx">
-      <DependentUpon>CustomerMain.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="CustomerProfile.resx">
       <DependentUpon>CustomerProfile.cs</DependentUpon>

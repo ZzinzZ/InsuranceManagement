@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\NGUYEN QUACH HAI\\Documents\\T\u00E0i Li\u1EC7u\\BM CSDL\\CK\\InsuranceManagement\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{171F7812-5920-4C77-A05B-D4A395D75C08}|GUI\\GUI.csproj|c:\\users\\nguyen quach hai\\documents\\t\u00E0i li\u1EC7u\\bm csdl\\ck\\insurancemanagement\\gui\\supervisormain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{171F7812-5920-4C77-A05B-D4A395D75C08}|GUI\\GUI.csproj|solutionrelative:gui\\supervisormain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupervisorMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NGUYEN QUACH HAI\\Documents\\T\u00E0i Li\u1EC7u\\BM CSDL\\CK\\InsuranceManagement\\GUI\\SupervisorMain.cs",
+              "RelativeDocumentMoniker": "GUI\\SupervisorMain.cs",
+              "ToolTip": "C:\\Users\\NGUYEN QUACH HAI\\Documents\\T\u00E0i Li\u1EC7u\\BM CSDL\\CK\\InsuranceManagement\\GUI\\SupervisorMain.cs [Design]",
+              "RelativeToolTip": "GUI\\SupervisorMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:59:03.474Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
